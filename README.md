@@ -1,4 +1,4 @@
-# Predictive Analytics - Facebook Prophet
+# Predictive Analytics - [Facebook Prophet](https://facebook.github.io/prophet/docs/installation.html)
 
 ## Goal
 
